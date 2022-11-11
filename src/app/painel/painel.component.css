@@ -1,0 +1,8 @@
+.jumbotron {
+  padding: 4rem 2rem;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  background-color: #d0d4d8;
+  border-radius: .3rem;
+  box-sizing: border-box;
+}
