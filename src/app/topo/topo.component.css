@@ -1,5 +1,7 @@
-.exemplo {
-    color: rgb(93, 84, 224);
-    font-size: 2rem;
-    background-color: aquamarine;
+.navbar {
+        font-size: 2rem ;
+    background-color: rgb(52, 146, 209);
+}
+.navbar-brand{
+    color: aliceblue;
 }
